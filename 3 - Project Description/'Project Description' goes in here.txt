@@ -1,1 +1,24 @@
-..
+Topic:
+We propose to make tools that make it easier for educators to explain concepts in science (physics), maths (graphs) and I.T (computer networks). This tool will consist of simulations and demonstrations of how a particular concept works. Customisation features will be implemented into these tools based on the concept that is displayed so that it can be utilised to its fullest potential. This tool will provide an interactive method of learning to broaden the way classes are taught and give a variety of ways to learn and understand.
+
+The tool that we create be iterated and improved upon for much more complex or larger concepts. This may also be a crucial resource for students to help them understand concepts better or improve upon their knowledge of a concept by having the ability to be interactive with the simulations. Additionally, schools, other education institutes and even students can save their money by investing in this tool. Rather than spending on additional material or online resources that provide a mediocre experience, this tool can be used by many which would exist longer than physical materials which may be expensive, fragile and/or difficult to obtain.
+
+
+
+
+
+Motivation:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Landscape:
