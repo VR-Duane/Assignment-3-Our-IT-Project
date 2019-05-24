@@ -93,7 +93,7 @@ Tools and Tech:
 
 Testing:
 
-We plan to rollout our prototype for people to use and test the tool. This test is to give an idea of what students prefer to use between our prototype, physical equipment and other tools found on the internet. A survey will be sent out to participants who use our prototype. We will know if we have succeeded if the majority of the people who have used the prototype prefer to use it rather than physical equipment and other online resources. Test users will be found based on whether they have used physical equipment or online resources to aid their learning in science/maths/I.T - mainly students and teachers.
+We will rollout our prototype for people to use and test the tool. This test is to give an idea of what students prefer to use between our prototype, physical equipment and other tools found on the internet. A survey will be sent out to participants who use our prototype. We will know if we have succeeded if the majority of the people who have used the prototype prefer to use it rather than physical equipment and other online resources. Test users will be found based on whether they have used physical equipment or online resources to aid their learning in science/maths/I.T - mainly students and teachers.
 
 
 
