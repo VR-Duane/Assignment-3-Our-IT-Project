@@ -1,4 +1,5 @@
 Topic:
+
 We propose to make tools that make it easier for educators to explain concepts in science (physics), maths (graphs) and I.T (computer networks). This tool will consist of simulations and demonstrations of how a particular concept works. Customisation features will be implemented into these tools based on the concept that is displayed so that it can be utilised to its fullest potential. These customisation features will allow the user to change the properties of object within the simulation in real-time. This tool will provide an interactive method of learning to broaden the way classes are taught and give a variety of ways to learn and understand.
 
 The tool that we create be iterated and improved upon for much more complex or larger concepts. This may also be a crucial resource for students to help them understand concepts better or improve upon their knowledge of a concept by having the ability to be interactive with the simulations. Additionally, schools, other education institutes and even students can save their money by investing in this tool. Rather than spending on additional material or online resources that provide a mediocre experience, this tool can be used by many which would exist longer than physical materials which may be expensive, fragile and/or difficult to obtain.
@@ -17,8 +18,111 @@ Motivation:
 
 
 
-
-
-
-
 Landscape:
+
+
+
+
+
+
+
+
+
+Aims:
+
+The aim of our project is to create a prototype app in Unreal Engine 4 (UE4). Potential users of this tool will be able to visualise the idea we are trying to push forward by creating a working prototype. They will also have the opportunity to test the prototype and suggest improvements or provide constructive criticism. To progress through to the prototype there are two goals/milestones that we plan to achieve. These include research and designs. We aim to create a couple of designs from a variety of videos researched. However, a finished prototype is outside the scope of the project.
+
+One of the goals is to collect as many ideas as possible through videos. The videos could inspire what type simulations we can implement in the prototype and what the simulation could look like, however, they would serve as a base for the designs and the . It would serve as inspiration for the design of the prototype and it would be a large influence on the objects that will be used in each simulation.
+
+Another goal is to come up with designs for the prototype. The designs will influence the construction of each simulation that we create. Designs are necessary for the prototype because it will determine the amount of attractiveness and interactivity the tool will contain which have the possibility and opportunity to get people to use it and get users to keep using it.
+
+
+
+
+
+
+
+
+
+
+Plans and progress:
+
+
+
+
+
+
+
+
+
+
+
+
+Roles:
+
+
+
+
+
+
+
+
+
+
+
+Scope and limits:
+
+The scope of our project revolves around research, designing and prototyping ideas. Our project is not planned to be a finished prototype, however, there will be milestones within the project that would eventually assist in the final solution. We will do research on the type of simulations our prototype will showcase, mainly videos of simulations, and create some designs for the prototype, such as a loading screen and a simple sketch of one simulation. We plan to create at least one simulation for the prototype.
+
+
+
+
+
+Tools and Tech:
+
+
+
+
+
+
+
+
+
+
+
+
+Testing:
+
+We plan to rollout our prototype for people to use and test the tool. This test is to give an idea of what students prefer to use between our prototype, physical equipment and other tools found on the internet. A survey will be sent out to participants who use our prototype. We will know if we have succeeded if the majority of the people who have used the prototype prefer to use it rather than physical equipment and other online resources. Test users will be found based on whether they have used physical equipment or online resources to aid their learning in science/maths/I.T - mainly students and teachers.
+
+
+
+
+
+
+Timeframe:
+
+
+
+
+
+
+
+
+
+
+
+Risks:
+
+
+
+
+
+
+
+
+
+
+
+Group processes and communication:
+
