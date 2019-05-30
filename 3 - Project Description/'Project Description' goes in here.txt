@@ -9,6 +9,9 @@ The tool that we create be iterated and improved upon for much more complex or l
 
 
 Motivation:
+What motivates us is that this project will allow students, or any curious person interested in STEM so see how technology can be used to visualized how physics, math or I.T works. This tool will allow them to see  simulations and demonstrations of how a particular concept works, teaching them the fundamentals of the subject in hopes of gaining new information. 
+With education become more online and open to the world, many people would had search up any information regarding their field, therefore with this project being made will allow more people to utilize information given to them and help them understand how it works rather than looking the information online and reading slabs of text. 
+From this project, any future employer or partners will see that ‘iloveclass’ is dedicated to helping people understand math, physics and IT related field,  presenting us as group who’s willing to help teach future generation in understanding difficult concept in STEM.
 
 
 
@@ -113,16 +116,15 @@ Timeframe:
 
 
 Risks:
+There will always be risks in our project, whether it be accidental risks or event-based risks, will always interfered with our work. However, if we as a group are able to identify the risk that could impact the project, we can reduce the chances of the risk.
 
+For accidental risk, some risk that we can face is time constraints to finish the project or reach a certain milestone, the lack of information for project details, coding difficult to understand/learn for the project, project being corrupted or have missing files can all factor into risks that can affect the project. To reduce the chances of risk appearing, we need to make sure that all our works are done before the a set date, we should also add internal documentation in our coding to make sure that other programmers in the group can understand the coding and finally to make sure we save all of our work in one folder and make several copies to make sure the work does not get corrupted.
 
-
-
-
-
-
-
-
+For event-based risks, theses are based off physical risks that are outside the control of user.  These could be on small scale such as the failure of a hard drive, a power failure or software freezing causes a file to become corrupt. To reduce theses risk, we need to make sure to save our work in different location, whether it be online in a cloud, a different hard drive or a portable USB. We can also add a separate uninterruptible power supply to make sure that if a power outage did happen, our work doesn’t get interrupted and crash on us.
 
 
 Group processes and communication:
 
+Our group has been communicating with each other through the use of Facebook messenger as well as meeting up on Friday at each tutorial. Usually we only use messenger when we’re not together, e.g at home and it usually  for if we need help or stuck on a task in the assignment or if we need confirmation on what we are meant to do for certain parts. When we meet up on Friday for our weekly tutorials, we would usually discuss what we are working on this week and present our work to our group members to see what good and what needs fixing is. Usually this method is good, as it allows all group members to communicate and contribute to the team while also allowing each member to voice their own opinion on a chosen topic. 
+However, because of our different timetable, situation or commitments , group members cannot always meet up after tutorials or before it, that is why we use messenger to communicate. Although it takes a while to communicate, the group member will always end up responding to our questions/feedback. 
+When a group member usually doesn’t respond to our messages or show up to our tutorials, we would have other means of contacting them, either through private messages or emails. Usually, this problem does not happen in our group as all of us will be able to respond at decent time.
