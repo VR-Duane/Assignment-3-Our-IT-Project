@@ -75,7 +75,7 @@ Roles:
 
 Scope and limits:
 
-The scope of our project revolves around research, designing and prototyping ideas. Our project is not planned to be a finished prototype, however, there will be milestones within the project that would eventually assist in the final solution. We will do research on the type of simulations our prototype will showcase, mainly videos of simulations, and create some designs for the prototype, such as a loading screen and a simple sketch of one simulation. We plan to create at least one simulation for the prototype.
+The scope of our project revolves around research, designing and prototyping ideas. Our project is not planned to be a finished prototype, however, there will be milestones within the project that would eventually assist in the final solution. We will do research on the type of simulations our prototype will showcase, mainly videos of simulations, and create some designs for the prototype, such as a loading screen and menus. We plan to create at least one simulation for the prototype. The prototype is planned for the PC/MAC platforms. All developments for mobile and other platforms are outside the scope of the project.
 
 
 
