@@ -85,7 +85,7 @@ The scope of our project revolves around research, designing and prototyping ide
 
 Tools and Tech:
 
-
+Since our project idea is to use Unreal Engine 4 to provide a visual and interactive way to learn basic Math/Science/IT concepts, we will obviously need to used Unreal Engine 4.  Although the UE4 software is free to download, we would need a powerful computer to smoothly run UE4; a top end CPU and GPU, coupled with around 16GB of RAM and a SSD would allow for smooth development. Steven has experience using Unreal Engine 4 so he will be able to build the assignment. We will also use adobe editing software such as Illustrator and Photoshop to draw up a basic design for the menu system that will be built into our project. Micheal having some experience using adobe programs can draw up a design, which Steven can then put into Unreal Engine 4. 
 
 
 
