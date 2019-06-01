@@ -1,1 +1,37 @@
-..
+Project Manager:
+Job Duties: 
+-	Manages the managers within each mainstream department such as the Programming and User-interface design departments. 
+-	Create timelines and deadlines for everyone to follow accordingly to achieve their goal within a reasonable amount of time. 
+-	Make sure that employees are doing what they have to for the job.
+-	Chase after any issues that may arise due to unforeseen circumstances. 
+Skills and Qualifications:
+-	¬People management, Strategic, Planning, Flexible, Problem solver. 
+
+
+Programming Manager:
+Job Duties: 
+-	Making sure that work within the programming department of the project is completed to a satisfactory level
+-	Appropriate department runs as smoothly as possible for a consistent and efficient work environment by checking on employees regularly and aiding others where needed. 
+-	Leads the programming department towards each goal and milestone by creating appropriate timelines and deadlines for everyone to follow. 
+-	Report back to higher command should issues arise and attempt to amend problems. 
+Skills and Qualifications:
+-	¬Staff management, people management, Strategic, Planning
+-	
+User-interface Designer:
+Job Duties: 
+-	Creating many different designs and prototypes that the project will use.
+-	Work with many other members of the project from a variety of departments to create the best solution as possible.
+-	Knowledge with modern technology and their usage patterns. 
+-	Experience with certain programs for designing. 
+Skills and Qualifications:
+-	Creative, Open-minded, Cooperative, Flexible
+-	
+Programmer:
+Job Duties: 
+-	Experience with multiple programming languages such as Java and C++. 
+-	Great problem-solving skills
+-	Work with other members of the project from a variety of departments to create the best solution as possible. 
+-	To potentially, test and recreate solutions several times due to user testing. 
+Skills and Qualifications:
+-	Open-minded, Cooperative, Flexible, Determined
+
