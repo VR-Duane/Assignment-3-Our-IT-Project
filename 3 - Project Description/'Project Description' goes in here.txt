@@ -63,11 +63,13 @@ Plans and progress:
 
 Roles:
 
+When developing a software such as our own that will be made to assist schools and universities in their methods of teaching students a variety of subjects such as sciences, maths, I.T. It is important to have at least a few key roles within the team to keep the development team on track and on schedule. 
 
+Project Manager
+The project manager oversees overseeing the due dates and the amount of work completed by each individual member of the team. The program manager sets deadlines for tasks that is required for the completion of the project and make sure to set things straight should there by unforeseen circumstances, delays and misfortunes. 
 
-
-
-
+Lead Developer
+The lead developer is in charge of the developing the software that the program will run off of. They will assist and lead other programmers within the team to developing the program under the constraints that has been set upon them. 
 
 
 
