@@ -1,1 +1,7 @@
-..
+For our IT Project, our group has decided on a program that can be used by schools and universities to help teach their subjects such as sciences, mathematics and I.T.  
+
+(Insert link to the group website here)
+
+Github Repository: https://github.com/VR-Duane/Assignment-3-Our-IT-Project.git 
+
+According to the audit trail on our Github repository, it does indeed closely reflect our groups work ethic and pattern As most work for the project was done at the first few weeks of the project and the final weeks of the assignment before submission. Despite this, our group was able to complete all tasks required. 
