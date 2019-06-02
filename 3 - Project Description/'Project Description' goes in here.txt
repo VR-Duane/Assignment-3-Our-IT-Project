@@ -22,6 +22,8 @@ From this project, any future employer or partners will see that â€˜iloveclassâ€
 
 
 Landscape:
+While researching for similar systems and product which could be seen as competitors on the market, we came across PhET (https://phet.colorado.edu/). PhET is a web based product that simulates real life math and science problems, through game-like simulation. PhET provides a wide range of education simulations such as Maths, Physics, Biology, Chemistry. A more detailed list can be found on their website. 
+The points of difference our project will have when compared to PhET, is that will have IT based simulations. These IT simulations can range from Programming to Networking and even Database concepts, we will also work on providing a wider range of difficulty of simulations which could be explained within our project, firstly starting off with the basics we can then move on to more complicated simulations. We also want to reach a broader audience for our project through visuality and interactions, allowing for more students to learn these concepts. We believe that our project will improve in these areas, whereas our competitors may lack.
 
 
 
